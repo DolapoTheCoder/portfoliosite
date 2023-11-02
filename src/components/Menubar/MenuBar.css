@@ -3,7 +3,6 @@
 
 .navbar {
   font-family: 'Roboto', sans-serif;
-  background-color: #1877F2;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -21,4 +20,9 @@
 
 .navLink:hover {
   background-color: #fff;
+}
+
+.nav-logo {
+    height: 10vmin;
+    border-radius: 50%;
 }

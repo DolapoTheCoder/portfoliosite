@@ -1,5 +1,5 @@
 import React from 'react'
-import MenuBar from './Menubar/MenuBar'
+import styles from './styles/Home.css'
 
 const Home = () => {
   return (
