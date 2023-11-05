@@ -14,7 +14,7 @@ const MenuBar = () => {
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
                     <Nav.Link as={NavLink} to="/" className={styles.navLink}>Home</Nav.Link>
-                    <Nav.Link as={NavLink} to="/Portfolio" className={styles.navLink}>Portfolio</Nav.Link>
+                    <Nav.Link as={NavLink} to="/portfolio" className={styles.navLink}>Portfolio</Nav.Link>
                     <Nav.Link as={NavLink} to="/contact" className={styles.navLink}>Contact Us</Nav.Link>
                 </Nav>
             </Navbar.Collapse>

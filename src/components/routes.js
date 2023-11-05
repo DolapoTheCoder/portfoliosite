@@ -1,6 +1,6 @@
 import React from 'react'
-import Home from './Home'
-import Portfolio from './Portfolio'
+import Home from './Homepage/Home'
+import Portfolio from './Portfolio/Portfolio'
 import Contact from './Contact'
 
 const routes = [

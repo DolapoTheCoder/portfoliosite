@@ -1,0 +1,24 @@
+.home {
+    padding-top: 5%;
+    text-align: left;
+    color: white;
+}
+
+.home-title {
+    color: #FED503;
+    text-align: center;
+}
+
+.paragraph {
+    text-align: center;
+    color: white;
+}
+
+.homePage {
+    background-color: #0A1E4F;
+}
+
+.info {
+    color: white;
+    text-align: center;
+}

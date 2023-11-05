@@ -1,0 +1,12 @@
+.portfolio{
+    background-color: #0A1E4F;
+}
+
+.portfolioImage {
+    height: 50vmin;
+}
+
+.portfolioTitle {
+    color: white;
+    text-align: center;
+}
