@@ -13,9 +13,9 @@ const Allette = () => {
                 <img src={allette} alt='allette' className='portfolioImage' />
                 <p className='alletteDesc'>
                     After Allette’s re-brand, we
-                    <span style={{ display: "block" }}>areimagined their website for an</span>
-                    <span style={{ display: "block" }}>aentirely new feel. We also embedded</span>
-                    <span style={{ display: "block" }}>aan apple music playlist in-site</span>
+                    <span style={{ display: "block" }}>reimagined their website for an</span>
+                    <span style={{ display: "block" }}>entirely new feel. We also embedded</span>
+                    <span style={{ display: "block" }}>an apple music playlist in-site</span>
                 </p>
                 <Button variant='outline-light' href='https://alletteofficial.com/'>View Project</Button>
             </div>
