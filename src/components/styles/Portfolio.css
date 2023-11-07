@@ -4,9 +4,35 @@
 
 .portfolioImage {
     height: 50vmin;
+    align-self: center;
 }
 
 .portfolioTitle {
     color: white;
     text-align: center;
+}
+
+.alletteTitle {
+    color: white;
+    text-align: center;
+    line-height: 1em;
+    margin-bottom: 0;
+}
+
+.alletteSubtitle {
+    color: lightgrey;
+    text-align: center;
+    line-height: 1em;
+}
+
+.line {
+    height:2px;
+    width: 50%;
+    border-width:0;
+    background-color: #FFF;
+}
+
+.alletteDesc {
+    text-align: center;
+    color: white;
 }
